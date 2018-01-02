@@ -6,7 +6,7 @@ var dongData = [
         author : "东东",
         time : "17/11/29",
         dec : "一个比较好用的放大镜",
-        con : "放大镜"
+        con : "fangdajing"
     },
     {
         type : "js",
@@ -38,7 +38,7 @@ var dongData = [
         author : "东东",
         time : "17/11/29",
         dec : "京东轮播图",
-        con : "京东轮播图"
+        con : "jdlunbo"
     },
     {
         type : "js",
@@ -46,7 +46,7 @@ var dongData = [
         author : "东东",
         time : "17/11/29",
         dec : "全屏滚动",
-        con : "全屏滚动"
+        con : "quanpingundong"
     },
     {
         type : "js",
@@ -54,7 +54,7 @@ var dongData = [
         author : "东东",
         time : "17/11/29",
         dec : "手风琴",
-        con : "手风琴"
+        con : "shoufenqing"
     },
     {
         type : "js",
@@ -62,7 +62,7 @@ var dongData = [
         author : "东东",
         time : "17/11/29",
         dec : "拖拽时事件。（event）",
-        con : "拖拽时事件。（event）"
+        con : "tuozhuai"
     },
     {
         type : "js",
@@ -70,7 +70,7 @@ var dongData = [
         author : "东东",
         time : "17/11/29",
         dec : "图片遮罩层进入（四个方向进入判断）",
-        con : "图片遮罩层进入（四个方向进入判断）"
+        con : "tupianzhezhao"
     },
 	{
         type : "js",
@@ -78,7 +78,7 @@ var dongData = [
         author : "东东",
         time : "17/11/29",
         dec : "时间动画版，行走时钟",
-        con : "时间图片刷新"
+        con : "time"
     },
     {
         type : "css",
@@ -86,7 +86,7 @@ var dongData = [
         author : "东东",
         time : "18/1/1",
         dec : "使用css3特性布局一个导航",
-        con : "多边形导航"
+        con : "duobianxingdaohang"
     },
     {
         type : "js",
@@ -94,7 +94,7 @@ var dongData = [
         author : "东东",
         time : "17/11/29",
         dec : "轮播图",
-        con : "滑动轮播效果（定时器的运用）"
+        con : "slidelunbo"
     },
     {
         type : "js",
@@ -102,6 +102,6 @@ var dongData = [
         author : "东东",
         time : "17/11/29",
         dec : "省市联动三级导航栏",
-        con : "省市联动三级（json用法）"
+        con : "city3"
     }
 ];
